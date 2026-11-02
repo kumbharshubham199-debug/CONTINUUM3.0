@@ -1,0 +1,10 @@
+{
+  "name": "CONTINUUM Manufacturing Process Management",
+  "short_name": "CONTINUUM",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f0e8",
+  "theme_color": "#34372f",
+  "description": "A continuous flow for smarter manufacturing.",
+  "icons": []
+}
